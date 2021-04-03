@@ -3,5 +3,5 @@
 	"arrowParens": "avoid",
 	"tabWidth": 4,
 	"useTabs": true,
-	"htmlWhitespaceSensitivity": "strict"
+	"htmlWhitespaceSensitivity": "ignore"
 }

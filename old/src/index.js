@@ -81,7 +81,7 @@ function workInput(input) {
 
 function getInput() {
 	document
-		.querySelector(".calc")
+		.querySelector(".calc-buttons")
 		.addEventListener("click", e => workInput(e.target.innerText))
 }
 getInput()
