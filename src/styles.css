@@ -9,8 +9,8 @@ body {
 
 :is(.calc, .editors, .operators, .screen) {
 	display: grid;
-	column-gap: 1px;
-	row-gap: 1px;
+	grid-column-gap: 1px;
+	grid-row-gap: 1px;
 }
 
 :is(.screen, input, .calc) {
